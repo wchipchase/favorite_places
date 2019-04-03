@@ -1,0 +1,57 @@
+{
+	"places": [{
+			"city": "Boston",
+			"state": "Massachussettes",
+			"imageURL": "https://image.shutterstock.com/image-photo/boston-massachusetts-usa-historic-skyline-450w-687616957.jpg",
+			"favoriteRestaurant": "The Palm Boston",
+			"favoriteBar": "The Hawthorne",
+			"favoriteHotel": "Boston Park Plaza",
+			"favoriteTouristAttraction": "Charlestown Navel Yard",
+			"rating": 3
+		},
+
+		{
+			"city": "Frankfurt",
+			"state": "Germany",
+			"imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Frankfurt_Skyline_at_night_%28Unsplash%29.jpg/1920px-Frankfurt_Skyline_at_night_%28Unsplash%29.jpg",
+			"favoriteRestaurant": "Restaurant Klosterhof",
+			"favoriteBar": "St Charles Place",
+			"favoriteHotel": "The Westin Grand Frankfurt",
+			"favoriteTouristAttraction": "Kaiser Strasse",
+			"rating": 3
+		},
+
+		{
+			"city": "Barcelona",
+			"state": "Spain",
+			"imageURL": "https://www.tripsavvy.com/thmb/NgMShiMYfonkcdgkofUZdSA6yv8=/950x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BarcelonaSpain-5bdc0d8446e0fb002d8bfdc8.jpg",
+			"favoriteRestaurant": "Lasarte",
+			"favoriteBar": "Dry Martini and Speakeasy",
+			"favoriteHotel": "Hilton Barcelona",
+			"favoriteTouristAttraction": "La Sagrada Familia",
+			"rating": 2
+		},
+
+		{
+			"city": "Nashville",
+			"state": "Tennessee",
+			"imageURL": "https://media.istockphoto.com/photos/skyline-of-downtown-nashville-tennessee-usa-picture-id588588926",
+			"favoriteRestaurant": "Rolf and Daughters",
+			"favoriteBar": "The Big Bang Dueling Piano Bar",
+			"favoriteHotel": "Hotel indigo Nashville",
+			"favoriteTouristAttraction": "Cheekwood Botanical Garden",
+			"rating": 2
+		},
+
+		{
+			"city": "Louisville",
+			"state": "Kentucky",
+			"imageURL": "https://www.tolemi.com/wp-content/uploads/2018/08/Louisville.jpg",
+			"favoriteRestaurant": "Morton's Steakhouse",
+			"favoriteBar": "Phoenix Hill",
+			"favoriteHotel": "Brown Hotel",
+			"favoriteTouristAttraction": "Kentucky Derby",
+			"rating": 1
+		}
+	]
+}
