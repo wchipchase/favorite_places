@@ -1,4 +1,4 @@
-# Sorting Hat
+# Favorite Places
 A website displaying favorite places
 
 ## Description
