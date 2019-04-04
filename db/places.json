@@ -7,7 +7,7 @@
 			"favoriteBar": "The Hawthorne",
 			"favoriteHotel": "Boston Park Plaza",
 			"favoriteTouristAttraction": "Charlestown Navel Yard",
-			"rating": 3
+			"rating": "3star"
 		},
 
 		{
@@ -18,7 +18,7 @@
 			"favoriteBar": "St Charles Place",
 			"favoriteHotel": "The Westin Grand Frankfurt",
 			"favoriteTouristAttraction": "Kaiser Strasse",
-			"rating": 3
+			"rating": "3star"
 		},
 
 		{
@@ -29,7 +29,7 @@
 			"favoriteBar": "Dry Martini and Speakeasy",
 			"favoriteHotel": "Hilton Barcelona",
 			"favoriteTouristAttraction": "La Sagrada Familia",
-			"rating": 2
+			"rating": "2star"
 		},
 
 		{
@@ -40,7 +40,7 @@
 			"favoriteBar": "The Big Bang Dueling Piano Bar",
 			"favoriteHotel": "Hotel indigo Nashville",
 			"favoriteTouristAttraction": "Cheekwood Botanical Garden",
-			"rating": 2
+			"rating": "2star"
 		},
 
 		{
@@ -51,7 +51,7 @@
 			"favoriteBar": "Phoenix Hill",
 			"favoriteHotel": "Brown Hotel",
 			"favoriteTouristAttraction": "Kentucky Derby",
-			"rating": 1
+			"rating": "1star"
 		}
 	]
 }

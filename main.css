@@ -1,3 +1,13 @@
 body {
     background-color: lightblue;
 }
+
+#headline {
+    text-align: center;
+}
+
+#buttons {
+    justify-content: center;
+    text-align: center;
+}
+
