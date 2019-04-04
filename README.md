@@ -16,4 +16,4 @@ $ npm install -g http-server
 ## Running
 Browse to favorite_places directory and run http server
 
-![favorite_places](https://raw.githubusercontent.com/wchipchase/favorite_places/master/screenshots/sorting-hat.JPG "Favorite Places")
+![favorite_places](https://raw.githubusercontent.com/wchipchase/favorite_places/setup/screenshots/favorite_places.JPG "Favorite Places")
